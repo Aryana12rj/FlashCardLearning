@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# FlashCard Learning
 
-# Run and deploy your AI Studio app
+## Project Description
+This is a personal project built independently to facilitate effective learning using flashcards. The FlashCard Learning application allows users to create, manage, and study flashcards in an organized way. 
 
-This contains everything you need to run your app locally.
+## Features
+- Create and customize flashcards for different subjects.
+- Study flashcards with various modes (random, sequential, etc.).
+- Track learning progress and statistics.
 
-View your app in AI Studio: https://ai.studio/apps/199860fe-31ff-4e76-94b8-86d144bba21c
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aryana12rj/FlashCardLearning.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd FlashCardLearning
+   ```
+3. Install dependencies (if applicable):
+   ```bash
+   npm install  # or the appropriate command for your stack
+   ```
+4. Start the application:
+   ```bash
+   npm start  # or the appropriate command to run your app
+   ```
 
-## Run Locally
+## Contribution
+As this is a personal project, contributions are closed. However, feedback is welcome.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## License
+This project is licensed under the MIT License.
